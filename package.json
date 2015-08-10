@@ -1,0 +1,28 @@
+{
+  "name": "collect-icons",
+  "version": "1.0.0",
+  "description": "Collect svg icons from Fontawesome/IcoMoon/Typicons/Entypo/Iconic Fill/Iconic Stroke etc.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webzhao/collect-icons.git"
+  },
+  "keywords": [
+    "SVG",
+    "icon",
+    "font",
+    "tool"
+  ],
+  "author": "zhaowenbo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/webzhao/collect-icons/issues"
+  },
+  "homepage": "https://github.com/webzhao/collect-icons#readme",
+  "dependencies": {
+    "svgfont2js": "^0.1.2"
+  }
+}
